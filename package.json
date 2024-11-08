@@ -1,0 +1,11 @@
+{
+  "name": "typescript_lambda_builder",
+  "scripts": {
+    "build": "node build-lambdas.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "esbuild": "^0.24.0"
+  }
+}
